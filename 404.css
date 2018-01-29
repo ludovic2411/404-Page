@@ -4,5 +4,19 @@ body {
 }
 p {
   text-align: center;
-  color:#FFEBCD
+  color:#FFEBCD;
+  font-size: 40px;
+}
+input {
+  background-color: #FFEBCD;
+  border: none;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  margin:0 auto;
 }
